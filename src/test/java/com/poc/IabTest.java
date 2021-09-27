@@ -16,7 +16,7 @@ import java.util.stream.Stream;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class TestIab {
+public class IabTest {
 
     @Test
     void testThatFails1() {
